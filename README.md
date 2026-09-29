@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I'm Md. Riad 👋
 
-<!--
-**Riad182/Riad182** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### CSE Student | Python Developer | AI Automation Learner | Data & Excel Enthusiast
 
-Here are some ideas to get you started:
+I'm a Computer Science and Engineering student focused on building practical software projects and developing job-ready skills in Python, AI Automation, Data Analysis and Excel.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I'm Learning
+
+- 🐍 Python
+- 🤖 AI Automation
+- 📊 Excel and Data Analysis
+- 🌐 Web Development
+- 🔧 Git and GitHub
+
+## 🛠️ Technologies & Tools
+
+**Languages:** Python, HTML, CSS, JavaScript
+
+**Tools:** Git, GitHub, VS Code, Excel
+
+## 📌 Featured Projects
+
+### FixIt Campus
+A web-based campus management platform designed to help students report campus issues and connect reports with administrators and staff.
+
+### Python & AI Automation
+A growing collection of Python exercises, automation projects and practical experiments documenting my learning journey.
+
+## 📚 Learning Journey
+
+I'm using GitHub to document what I learn, build practical projects and create a clear record of my technical progress.
+
+## 🎯 Current Focus
+
+Building practical projects and preparing for opportunities in AI Automation, Data Analysis and software development.
+
+## 📫 Connect With Me
+
+- GitHub: [@mdriad](https://github.com/mdriad)
+
+---
+
+⭐ Thanks for visiting my profile!
