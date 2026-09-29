@@ -2,15 +2,15 @@
 
 ### CSE Student | Python Developer | AI Automation Learner | Data & Excel Enthusiast
 
-I'm a Computer Science and Engineering student focused on building practical software projects and developing job-ready skills in Python, AI Automation, Data Analysis and Excel.
+I'm a Computer Science and Engineering student focused on building practical software projects and developing job ready skills in Python, AI Automation, Data Analysis and Excel.
 
 ## 🚀 What I'm Learning
 
-- 🐍 Python
-- 🤖 AI Automation
-- 📊 Excel and Data Analysis
-- 🌐 Web Development
-- 🔧 Git and GitHub
+• 🐍 Python
+• 🤖 AI Automation
+• 📊 Excel and Data Analysis
+• 🌐 Web Development
+• 🔧 Git and GitHub
 
 ## 🛠️ Technologies & Tools
 
@@ -21,7 +21,7 @@ I'm a Computer Science and Engineering student focused on building practical sof
 ## 📌 Featured Projects
 
 ### FixIt Campus
-A web-based campus management platform designed to help students report campus issues and connect reports with administrators and staff.
+A web based campus management platform designed to help students report campus issues and connect reports with administrators and staff.
 
 ### Python & AI Automation
 A growing collection of Python exercises, automation projects and practical experiments documenting my learning journey.
@@ -36,7 +36,7 @@ Building practical projects and preparing for opportunities in AI Automation, Da
 
 ## 📫 Connect With Me
 
-- GitHub: [@mdriad](https://github.com/mdriad)
+• GitHub: [@mdriad-dev](https://github.com/mdriad-dev)
 
 ---
 
